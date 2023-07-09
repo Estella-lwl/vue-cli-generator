@@ -1,6 +1,5 @@
-# vue-cli-generator
-- 第三方库👉🏻 [commander](https://github.com/tj/commander.js)
-- 使用 ejs 模板引擎
+# vue-template-generator
+Start a Vue project in a moment.
 
 ## 实现功能：
 

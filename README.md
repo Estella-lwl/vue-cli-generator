@@ -15,17 +15,17 @@ Start a Vue project in a moment.
 ```
 一些说明：
   使用 -d [your target path] 可指定目标路径
-  例：`custom addpage HomePage -d src`  将生成于项目根目录下的src文件夹。
+  例：`st addpage HomePage -d src`  将生成于项目根目录下的src文件夹。
 ```
-- 新建项目：custom create [your project name]
+- 新建项目：st create [your project name]
 - 新建组件：
-  - 默认：custom addcpn [your project name]
-  - 自定义路径：custom addcpn [component name] -d [your target path]
+  - 默认：st addcpn [your project name]
+  - 自定义路径：st addcpn [component name] -d [your target path]
 - 新建页面 & 对应路由：
-  - 默认：custom addpage [page name]
-  - 自定义路径：custom addpage [page name] -d [your target path]
+  - 默认：st addpage [page name]
+  - 自定义路径：st addpage [page name] -d [your target path]
 - 新建store模块：
-  - 默认：custom addpage [store name]
-  - 自定义路径：custom addpage [store name] -d [your target path]
+  - 默认：st addpage [store name]
+  - 自定义路径：st addpage [store name] -d [your target path]
 
 

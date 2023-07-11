@@ -25,7 +25,7 @@ Start a Vue project in a moment.
   - 默认：st addpage [page name]
   - 自定义路径：st addpage [page name] -d [your target path]
 - 新建store模块：
-  - 默认：st addpage [store name]
-  - 自定义路径：st addpage [store name] -d [your target path]
+  - 默认：st addstore [store name]
+  - 自定义路径：st addstore [store name] -d [your target path]
 
 

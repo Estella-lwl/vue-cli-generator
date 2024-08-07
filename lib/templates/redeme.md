@@ -3,4 +3,4 @@
   -  router 文件的模板
   -  store 文件的模板
   -  store 的 types 文件的模板
-- 目前只有 .vue.ejs 后缀的文件，后续可扩展 .react.ejs 文件用于 react 项目的模板。
+- 目前只有 .vue.ejs 后缀的文件，后续可扩展。
